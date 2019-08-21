@@ -1,0 +1,17 @@
+Operadores de comparação
+
+Igual (==) - Verifica se o valor comparado é Igual
+Idêntico (===) - Verifica se os valores comparados são iguais
+e do mesmo tipo
+Diferente (!=) - Verifica se os valores comparados são Diferente
+Não Idêntico (!==) Verifica se o tipo e valor são diferentes
+Menor (<) Varifica se o valor da esquerda é menor que da direita
+Maior (>) Varifica se o valor da esquerda é maior que da direita
+Menor (<=) Varifica se o valor da esquerda é menor ou igual que da direita
+Maior (>=) Varifica se o valor da esquerda é maior ou igual que da direita
+
+Operadores Lógicos
+
+E (&&) - Verdadeiro se todas as expressões forem verdadeiras
+OU (||) - Verdadeiro se uma das expressões ser verdadeiras
+Negação (!) - Inverte o resultado da expressão de comparação.

@@ -1,0 +1,18 @@
+Variáveis tipo?
+
+Int => Inteiros como por exemplo: -8 ou 8
+Float => Decimais ou frações por exemplo: -7.3 ou 5.999
+String => Textos por exemplo: 'vinicius'
+Boolean => Estados (true ou false)
+
+Regras para declaração de variáveis:
+
+Não podemos iniciar com números => (let 1nome)
+Não podemos utilizar caracteres especias => (let n*me)
+Não podemos utilizar as palavras reservadas do javascript  => (let let)
+
+O javascript é case-sensitive
+let curso = 'Programador';
+let Curso = 'Programador'
+
+As palavras reservadas para criação de variável: var e o let / const
